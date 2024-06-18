@@ -1,6 +1,8 @@
 # Preview
 
-![alt-text](https://github.com/emmanesgana/scrimba-reactfacts/blob/main/preview/preview.png)
+A simple static layout page with the use of React library.
+
+![Preview Page](https://github.com/emmanesgana/scrimba-reactfacts/blob/main/preview/preview.png)
 
 Quick start:
 
