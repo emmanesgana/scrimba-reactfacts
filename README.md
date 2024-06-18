@@ -1,4 +1,8 @@
-# coa6145f3a9c7e1cbc40f5f6a
+# Preview
+
+A simple static layout page with the use of React library.
+
+![Preview Page](https://github.com/emmanesgana/scrimba-reactfacts/blob/main/preview/preview.png)
 
 Quick start:
 
