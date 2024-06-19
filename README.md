@@ -1,5 +1,5 @@
 # Preview
-[Demo](https://scrimba-reactfacts.netlify.app/)
+**[Demo](https://scrimba-reactfacts.netlify.app/)**
 
 A simple static layout page with the use of React library.
 
